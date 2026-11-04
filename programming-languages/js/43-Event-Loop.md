@@ -305,7 +305,7 @@ console.log(count); // vẫn là giá trị cũ
 
 ## Thứ tự ưu tiên
 
-![alt text](../imgs/js-event-loop-order.png)
+![alt text](../../imgs/js-event-loop-order.png)
 
 **Tab "Thứ tự ưu tiên"** — 5 tầng từ cao đến thấp, với quy tắc vàng: sync → microtask (drain hết) → rAF → macrotask (chỉ 1) → lặp lại.
 

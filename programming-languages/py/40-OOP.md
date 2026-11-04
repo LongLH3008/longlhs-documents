@@ -162,4 +162,4 @@ class Car:
 - [OOP (JS)](../js/34-OOP.md)
 - [Class](./39-Class.md)
 - [Data Model, Dunder Methods & MRO](./52-Data-Model-MRO.md)
-- [Dependency Injection](../be/dependency-injection.md)
+- [Dependency Injection](../../be/dependency-injection.md)

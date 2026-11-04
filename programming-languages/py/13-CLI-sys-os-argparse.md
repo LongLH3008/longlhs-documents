@@ -140,4 +140,4 @@ Truyền **list** tham số thay vì chuỗi với `shell=True` để tránh com
 - [Cài đặt, venv & pip](./01-Setup-venv-pip.md)
 - [File I/O & pathlib](./46-File-IO-pathlib.md)
 - [Logging](./12-Logging.md)
-- [Command Injection](../security/command-injection.md)
+- [Command Injection](../../security/command-injection.md)

@@ -39,7 +39,8 @@
     <div class="home-list">
       {%- for s in site.sections -%}
       {%- assign dir = '/' | append: s.dir | append: '/' -%}
-      {%- assign docs = site.pages | where: 'dir', dir | where_exp: 'd', "d.name != 'index.md'" -%}
+      {%- comment -%} Đếm cả bài trong folder con (ví dụ programming-languages/js/). {%- endcomment -%}
+      {%- assign docs = site.pages | where_exp: 'd', "d.dir contains dir" | where_exp: 'd', "d.name != 'index.md'" -%}
       <a class="home-card" href="{{ dir | relative_url }}">
         <h2>{{ s.title }}</h2>
         <p>{{ s.description }}</p>

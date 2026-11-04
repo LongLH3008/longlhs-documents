@@ -150,4 +150,4 @@ def get_user(user_id: int):
 - [Closure (JS)](../js/38-Closure.md)
 - [Closure](./50-Closure.md)
 - [\*args & \*\*kwargs](./33-args-kwargs.md)
-- [Debounce & Throttle](../fe/debounce-throttle.md)
+- [Debounce & Throttle](../../fe/debounce-throttle.md)

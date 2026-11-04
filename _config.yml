@@ -1,5 +1,5 @@
 title: docs
-description: Kho ghi chú kỹ thuật cá nhân bằng tiếng Việt, tổng hợp kiến thức frontend, backend, database và JavaScript kèm giải thích cơ chế, ví dụ code và các lưu ý khi áp dụng thực tế.
+description: Kho ghi chú kỹ thuật cá nhân bằng tiếng Việt, tổng hợp kiến thức frontend, backend, database, ngôn ngữ lập trình (JavaScript, Python) kèm giải thích cơ chế, ví dụ code và các lưu ý khi áp dụng thực tế.
 plugins:
       - jekyll-optional-front-matter
       - jekyll-default-layout
@@ -37,14 +37,10 @@ sections:
         label: DB
         title: Database
         description: Cách cơ sở dữ liệu lưu trữ và truy vấn dữ liệu hiệu quả, gồm index B-Tree, page split, composite index, EXPLAIN và các chiến lược phân trang (offset, cursor).
-      - dir: js
-        label: JS
-        title: JavaScript
-        description: Ghi chú JavaScript từ nền tảng đến cơ chế cốt lõi, từ kiểu dữ liệu, ES6, DOM đến scope, closure, prototype, Promise, async/await và Event Loop.
-      - dir: py
-        label: PY
-        title: Python
-        description: Ghi chú Python đối chiếu với JavaScript, từ kiểu dữ liệu, list, dict, comprehension, class đến scope LEGB, closure, decorator, asyncio và GIL.
+      - dir: programming-languages
+        label: LANG
+        title: Programming Languages
+        description: Ghi chú theo từng ngôn ngữ lập trình (JavaScript, Python), từ kiểu dữ liệu, vòng lặp, hàm, class đến scope, closure, async/await, Event Loop và GIL.
       - dir: security
         label: SEC
         title: Security

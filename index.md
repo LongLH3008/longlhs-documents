@@ -5,7 +5,6 @@
 - [Frontend](./fe/index.md)
 - [Backend](./be/index.md)
 - [Database](./db/index.md)
-- [JavaScript](./js/index.md)
-- [Python](./py/index.md)
+- [Programming Languages](./programming-languages/index.md)
 - [Security](./security/index.md)
 - [Docker](./docker/index.md)

@@ -123,6 +123,6 @@ python -m json.tool data.json
 ## Xem thêm
 
 - [ES6: Modules (JS)](../js/29-ES6-Modules.md)
-- [Circular Dependencies](../be/circular-dependencies.md)
+- [Circular Dependencies](../../be/circular-dependencies.md)
 - [Cài đặt, venv & pip](./01-Setup-venv-pip.md)
 - [if \_\_name\_\_ == "\_\_main\_\_"](./08-Main-Guard.md)
