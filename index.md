@@ -6,5 +6,6 @@
 - [Backend](./be/index.md)
 - [Database](./db/index.md)
 - [JavaScript](./js/index.md)
+- [Python](./py/index.md)
 - [Security](./security/index.md)
 - [Docker](./docker/index.md)

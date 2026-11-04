@@ -41,6 +41,10 @@ sections:
         label: JS
         title: JavaScript
         description: Ghi chú JavaScript từ nền tảng đến cơ chế cốt lõi, từ kiểu dữ liệu, ES6, DOM đến scope, closure, prototype, Promise, async/await và Event Loop.
+      - dir: py
+        label: PY
+        title: Python
+        description: Ghi chú Python đối chiếu với JavaScript, từ kiểu dữ liệu, list, dict, comprehension, class đến scope LEGB, closure, decorator, asyncio và GIL.
       - dir: security
         label: SEC
         title: Security
