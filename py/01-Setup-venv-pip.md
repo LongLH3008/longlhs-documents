@@ -79,5 +79,5 @@ print(res.status_code)  # 200
 ## Xem thêm
 
 - [ES6 Modules (JS)](../js/29-ES6-Modules.md)
-- [Modules & Packages](./27-Modules-Packages.md)
+- [Modules & Packages](./38-Modules-Packages.md)
 - [Dockerfile](../docker/dockerfile.md)
